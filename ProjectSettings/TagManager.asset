@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerBullet
+  - Enemy
+  - Wall
+  - Explosion
+  - BossSpell
+  - FlightBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 282865357
+    locked: 0
+  - name: Shadow
+    uniqueID: 2149653277
+    locked: 0
+  - name: Player
+    uniqueID: 3172465153
+    locked: 0
+  - name: PlayerBullet
+    uniqueID: 1489910593
+    locked: 0
+  - name: HandGun
+    uniqueID: 1364439599
+    locked: 0
+  - name: Boss
+    uniqueID: 1720812835
+    locked: 0
+  - name: LootItem
+    uniqueID: 86340359
+    locked: 0
+  - name: Wall
+    uniqueID: 1713679287
+    locked: 0
+  - name: Decorate
+    uniqueID: 2602002499
+    locked: 0
+  - name: Door
+    uniqueID: 734489601
+    locked: 0
+  - name: Enemy
+    uniqueID: 257925951
+    locked: 0
+  - name: WeaponBar
+    uniqueID: 4064467701
+    locked: 0
+  - name: GameUI
+    uniqueID: 862708833
+    locked: 0
+  m_RenderingLayers:
+  - Default
