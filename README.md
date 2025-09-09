@@ -1,6 +1,8 @@
 # Game2D_Haunted_Dark_Dominion
 Game 2D-TOPDOWN using Unity, C#
 
+Link Download Game for Windows: https://github.com/daodat244/Game2D_Haunted_Dark_Dominion/releases/tag/v1.0
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f3a943c9-22a4-4225-853c-297173806c27" />
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/22a5311f-82ce-4516-9ac1-5c50a2c951cb" />
